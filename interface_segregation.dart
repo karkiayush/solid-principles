@@ -1,7 +1,6 @@
 /* 
 ISP(Interface Segregation Principle)
 => ISP states that client(class) shouldn't be forced to depend upon(implement) interfaces that they don't use.
-
 => Interface Segregation Principle focuses on keeping interfaces slim & relevant to the clients that implement them.
 */
 
